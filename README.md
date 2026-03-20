@@ -1,7 +1,7 @@
 # House Price Prediction using Linear Regression
 
 ## Problem Statement
-A real estate company **HomeVista Properties** operates across multiple cities
+A real estate company operates across multiple cities
 and handles thousands of residential property sales every year. The company
 wants to automate its house pricing process using Machine Learning to predict
 the market price of a house based on its physical features, location, and condition.
